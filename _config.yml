@@ -1,8 +1,14 @@
-title: Just the Docs Template
-description: A starter template for a Jeykll site using the Just the Docs theme!
+title: 찬송 선반 프로젝트
+description: 찬송 선반 프로젝트의 정보, 기술 명세, 그리고 개발 과정을 한글로 기록한 문서 모음입니다.
+remote_theme: just-the-docs/just-the-docs
 theme: just-the-docs
 
-url: https://just-the-docs.github.io
+url: https://HymnShelf.github.io
 
 aux_links:
-  Template Repository: https://github.com/just-the-docs/just-the-docs-template
+  Frontend(Github): https://github.com/HymnShelf/hymn-shelf-frontend
+  Backend(Github): https://github.com/HymnShelf/hymn-shelf-backend
+
+markdown: kramdown
+kramdown:
+  input: GFM
